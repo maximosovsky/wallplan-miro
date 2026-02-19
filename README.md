@@ -18,7 +18,7 @@
 
 <img src="miroverse.jpeg" width="600" alt="WallPlan — 2-Year Timeline Gantt Calendar on Miroverse">
 
-[Quick Start](#-quick-start) · [Features](#-features) · [Tech Stack](#️-tech-stack) · [Docs](#documentation)
+[Quick Start](#-quick-start) · [Features](#-features) · [Tech Stack](#️-tech-stack) · [Docs](#-documentation)
 
 </div>
 
