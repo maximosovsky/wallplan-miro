@@ -100,15 +100,7 @@ src/
 
 ## 🗺️ Roadmap
 
-- [x] Native Miro element generation (shapes, text, frames)
-- [x] Progressive rendering for fast UX
-- [x] Rate-limit safe batching
-- [x] US Federal Holidays
-- [x] Miroverse template published
-- [ ] Miro Marketplace submission
-- [ ] Multi-language holiday support
-- [ ] Color theme selector
-- [ ] Saved presets per board
+See [ROADMAP.md](./ROADMAP.md) for the full plan.
 
 ---
 
@@ -117,6 +109,7 @@ src/
 | Document | Description |
 |----------|-------------|
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Module map, layout system, generation pipeline |
+| [ROADMAP.md](./ROADMAP.md) | Project roadmap — done & next |
 | [USER_GUIDE.md](./USER_GUIDE.md) | End-user guide with settings explanation |
 | [APP_SUBMISSION.md](./APP_SUBMISSION.md) | Marketplace submission checklist |
 
